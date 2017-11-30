@@ -1,0 +1,76 @@
+npm install -g http-server              //instalar servicios http en global
+npm install --save ts-promise           //instalar las funciones ts
+npm insstall -g @types/node             //instalar tipos de funciones de node
+//Instalar nodemon solo para dev y solo para este proyecto para ser en global seria con -g
+npm install --save-dev nodemon
+npm install --save koa
+npm install --save koa-logger
+
+npm install --save bunyan //libreria para utilizar logs de bunian
+
+npm install --save-dev cross-env //instalamos esta libreria para poder usar variables de sistema en windows
+ //"cross-env NODE_PATH=./server NODE_ENV=dev PORT=9000 nodemon ./server/index.js | bunyan" Con esto nos olvidamos de las rutas relativas
+
+npm install --save koa-router //Para enrutar y tener declarados aparte nuestros endpoints
+
+npm install --save koa-body //para parsear  los datos qeu nos envian
+//si nos envian un fichero los lee y los guarda en un archivo temporal
+//le podemos marcar el limite de body que quieres leer 
+//importante el lugar donde se declara porque tiene que parsear los datos para poder leerlos (normalmente despues del logger)
+
+npm install --save koa-validate //Chequea el cuerpo de la condicion segun las condiciones que le marques
+
+npm install --save koa-views //motor de plantillas
+npm install --save ejs
+
+npm install --save koa-mount //Para montar en un path comun los diferentes router
+
+npm install --save koa-generic-session //ayuda a manejar sesiones, añade la funcionalidad como un middleware. Guarda la sesion abierta, esto hace que a la vuetla si ha cambiado algo se guarda en la BBDD por defecto lo guarde en la memoria de nose sino hay que instalar otro
+
+npm install --save koa-generic-session-file //para guardar la session en un fichero
+
+npm install --save koa-convert //para convertir librerias de koa 1 a koa 2
+
+npm install --save koa-generic-session-mongo
+
+npm install --save koa-session-store koa-session-mongo
+
+
+instalar mongo con docker desde la consola de docker: docker run mongo:latest
+para cambiar el puerto docker run -p 27017:27017 mongo:latest asi exponemos los puertos 1º host:2ºmaquina virtual
+docker run -d -p 27017:27017 mongo:latest // -d para lanzarlo en background. 
+
+docker exec -it {id} bash // te abre una consola dentro de la carpeta del id que le digas luego conectamos con mongo  para levantar la consola de mongo.
+
+//comandos de mongo:
+
+show dbs me muestra las bases de datos
+
+Creamos una base de datos en mongo: use pets
+ver colleciones show collections
+Select * from pets // db.pets.find();
+
+db.pets.insert({name: "pepe", city:"SG", image null, birthdate: "2017-01-01", vaccinate: true})
+db.pets.find().pretty();
+
+db.pets.setIndex //para añadir un indice
+db.pets.update({})
+db.pets.find({city: 'AV'}).pretty();
+db.pets.find({city: {$in ['AV', 'SG']}).pretty();
+db.pets.find({city: 'AV'})
+
+db.pets.remove({}); // se carga tpda la db
+db.pets.remove({city: 'AV'});
+
+npm install --save mongoose //Para accerder facilmente a mongo, hacer querya
+
+npm install --save koa-passport //libreria para gestionar los logins
+npm install --save passport-http // Se usa para definir la estrategia con la que hacer login
+
+npm install --save bcrypt //se necesita python
+
+por no isntalar vamos a usar cryto qeu viene en el core de node
+
+npm install --save passport-local //yo te doy la informacion de los usuarios
+
+npm install --save passport-twitter //para loguear con twitter
