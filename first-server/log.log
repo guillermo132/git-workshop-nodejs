@@ -1,0 +1,557 @@
+{"name":"Koa-api","hostname":"pc1259","pid":16952,"level":30,"msg":"API listening in port 5500","time":"2017-11-17T16:24:53.809Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":3368,"level":30,"msg":"API listening in port 5500","time":"2017-11-17T16:25:15.904Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":15796,"level":30,"msg":"API listening in port 5500","time":"2017-11-17T16:25:25.162Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":11928,"level":30,"msg":"API listening in port 5500","time":"2017-11-17T16:30:23.366Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":16324,"level":30,"msg":"API listening in port 5500","time":"2017-11-17T16:35:11.628Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":2428,"level":30,"msg":"API listening in port 5500","time":"2017-11-17T16:43:17.980Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":4448,"level":30,"msg":"API listening in port 5500","time":"2017-11-17T16:44:15.784Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":16092,"level":30,"msg":"API listening in port 5500","time":"2017-11-17T16:46:29.569Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":10216,"level":30,"msg":"API listening in port 5500","time":"2017-11-17T16:48:56.704Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":14744,"level":30,"msg":"API listening in port 5500","time":"2017-11-17T16:49:36.402Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":11756,"level":30,"msg":"API listening in port 5500","time":"2017-11-17T16:51:06.626Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":6736,"level":30,"msg":"API listening in port 5500","time":"2017-11-17T16:52:09.396Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":16620,"level":30,"msg":"API listening in port 5500","time":"2017-11-17T16:52:44.105Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":15644,"level":30,"msg":"API listening in port 5500","time":"2017-11-17T16:53:43.758Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":3388,"level":30,"msg":"API listening in port 5500","time":"2017-11-17T16:53:57.610Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":5504,"level":30,"msg":"API listening in port 5500","time":"2017-11-17T16:57:27.305Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":7456,"level":30,"msg":"API listening in port 5500","time":"2017-11-17T16:57:56.381Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":18544,"level":30,"msg":"API listening in port 5500","time":"2017-11-17T17:05:13.361Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":6408,"level":30,"msg":"API listening in port 5500","time":"2017-11-17T17:05:47.756Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":10532,"level":30,"msg":"API listening in port 5500","time":"2017-11-17T17:05:56.694Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":17592,"level":30,"msg":"API listening in port 5500","time":"2017-11-17T17:08:20.439Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":11228,"level":30,"msg":"API listening in port 5500","time":"2017-11-17T17:12:04.999Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":9828,"level":30,"msg":"API listening in port 5500","time":"2017-11-17T17:14:05.370Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":10228,"level":30,"msg":"API listening in port 5500","time":"2017-11-17T17:15:15.875Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":17800,"level":30,"msg":"API listening in port 5500","time":"2017-11-17T17:21:49.655Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":408,"level":30,"msg":"API listening in port 5500","time":"2017-11-17T17:21:54.859Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":15024,"level":30,"msg":"API listening in port 5500","time":"2017-11-17T17:24:17.386Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":11492,"level":30,"msg":"API listening in port 5500","time":"2017-11-17T17:33:21.387Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":14040,"level":30,"msg":"API listening in port 5500","time":"2017-11-17T17:35:28.961Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":16916,"level":30,"msg":"API listening in port 5500","time":"2017-11-17T17:37:14.737Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":7780,"level":30,"msg":"API listening in port 5500","time":"2017-11-17T17:41:48.390Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":13864,"level":30,"msg":"API listening in port 5500","time":"2017-11-17T17:42:43.390Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":5184,"level":30,"msg":"API listening in port 5500","time":"2017-11-17T17:45:31.501Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":16812,"level":30,"msg":"API listening in port 5500","time":"2017-11-17T17:51:03.324Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":1212,"level":30,"msg":"API listening in port 5500","time":"2017-11-17T17:51:47.584Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":18320,"level":30,"msg":"API listening in port 5500","time":"2017-11-17T17:52:20.025Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":19000,"level":30,"msg":"API listening in port 5500","time":"2017-11-17T17:52:43.339Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":4124,"level":30,"msg":"API listening in port 5500","time":"2017-11-17T17:54:04.179Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":16072,"level":30,"msg":"API listening in port 5500","time":"2017-11-17T17:54:48.507Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":16680,"level":30,"msg":"API listening in port 5500","time":"2017-11-17T17:58:02.520Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":412,"level":30,"msg":"API listening in port 5500","time":"2017-11-17T17:58:50.903Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":684,"level":30,"msg":"API listening in port 5500","time":"2017-11-17T18:03:45.532Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":14040,"level":30,"msg":"API listening in port 5500","time":"2017-11-17T18:05:38.569Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":10840,"level":30,"msg":"API listening in port 5500","time":"2017-11-17T18:10:36.217Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":2076,"level":30,"msg":"API listening in port 5500","time":"2017-11-17T18:12:05.573Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":19244,"level":30,"msg":"API listening in port 5500","time":"2017-11-17T18:13:50.556Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":15024,"level":30,"msg":"API listening in port 5500","time":"2017-11-17T18:16:28.976Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":16112,"level":30,"msg":"API listening in port 5500","time":"2017-11-17T18:17:03.780Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":5724,"level":30,"msg":"API listening in port 5500","time":"2017-11-17T18:19:19.649Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":9868,"level":30,"msg":"API listening in port 5500","time":"2017-11-17T18:20:55.025Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":2700,"level":30,"msg":"API listening in port 5500","time":"2017-11-17T18:24:14.619Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":11600,"level":30,"msg":"API listening in port 5500","time":"2017-11-17T18:24:27.102Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":15636,"level":30,"msg":"API listening in port 5500","time":"2017-11-17T18:26:13.492Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":10324,"level":30,"msg":"API listening in port 5500","time":"2017-11-17T18:26:54.378Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":18456,"level":30,"msg":"API listening in port 5500","time":"2017-11-17T18:27:02.539Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":15832,"level":30,"msg":"API listening in port 5500","time":"2017-11-17T18:29:24.997Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":15832,"level":30,"msg":"Get all pets","time":"2017-11-17T18:30:43.729Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":15832,"level":30,"msg":"Create user with body  { name: 'juanito',\n  birthdate: '2017-01-01',\n  age: 4,\n  image: '',\n  vaccinate: true,\n  city: 'SG' }","time":"2017-11-17T18:30:50.311Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":15832,"level":30,"msg":"Get all pets","time":"2017-11-17T18:30:53.073Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":15832,"level":30,"msg":"Get pet by Id 0","time":"2017-11-17T18:31:13.358Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":18068,"level":30,"msg":"API listening in port 5500","time":"2017-11-17T18:32:27.905Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":13156,"level":30,"msg":"API listening in port 5500","time":"2017-11-17T18:33:25.498Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":13156,"level":30,"msg":"Update complete with id 0 with body: { name: 'juanito',\n  birthdate: '2017-02-01',\n  age: 4,\n  image: '',\n  vaccinate: true,\n  city: 'SG',\n  id: 0 }","time":"2017-11-17T18:34:08.429Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":13156,"level":30,"msg":"Get pet by Id 0","time":"2017-11-17T18:34:12.557Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":13156,"level":30,"msg":"Get pet by Id 0","time":"2017-11-17T18:34:13.817Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":13156,"level":30,"msg":"Get all pets","time":"2017-11-17T18:34:18.546Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":13156,"level":30,"msg":"Update complete with id 0 with body: { name: 'juanito',\n  birthdate: '2017-02-01',\n  age: 4,\n  image: '',\n  vaccinate: true,\n  city: 'SG',\n  id: 0 }","time":"2017-11-17T18:34:23.167Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":13156,"level":30,"msg":"Create user with body  { name: 'juanito',\n  birthdate: '2017-01-01',\n  age: 4,\n  image: '',\n  vaccinate: true,\n  city: 'SG' }","time":"2017-11-17T18:34:42.887Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":13156,"level":30,"msg":"Create user with body  { name: 'ni juana',\n  birthdate: '2017-01-01',\n  age: 4,\n  image: '',\n  vaccinate: true,\n  city: 'SG' }","time":"2017-11-17T18:34:53.976Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":13156,"level":30,"msg":"Get all pets","time":"2017-11-17T18:34:57.652Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":13156,"level":30,"msg":"Update complete with id 0 with body: { name: 'juanito',\n  birthdate: '2017-02-02',\n  age: 4,\n  image: '',\n  vaccinate: true,\n  city: 'SG' }","time":"2017-11-17T18:35:03.015Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":13156,"level":30,"msg":"Update partial with id 0 with body: { vaccinate: false }","time":"2017-11-17T18:35:26.895Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":13156,"level":30,"msg":"Get all pets","time":"2017-11-17T18:35:34.333Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":10548,"level":30,"msg":"API listening in port 5500","time":"2017-11-17T18:37:22.029Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":10548,"level":30,"msg":"Create user with body  { name: 'test partial',\n  birthdate: '2017-01-01',\n  age: 4,\n  image: '',\n  vaccinate: true,\n  city: 'SG' }","time":"2017-11-17T18:37:39.250Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":10548,"level":30,"msg":"Update partial with id 0 with body: { vaccinate: false }","time":"2017-11-17T18:37:45.978Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":10548,"level":30,"msg":"Get pet by Id 1","time":"2017-11-17T18:38:02.955Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":10548,"level":30,"msg":"Get pet by Id 0","time":"2017-11-17T18:38:11.489Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":10548,"level":30,"msg":"Get all pets","time":"2017-11-17T18:38:16.071Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":10548,"level":30,"msg":"Create user with body  { name: 'test partial 2',\n  birthdate: '2017-01-01',\n  age: 4,\n  image: '',\n  vaccinate: true,\n  city: 'SG' }","time":"2017-11-17T18:38:30.809Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":10548,"level":30,"msg":"Get all pets","time":"2017-11-17T18:38:35.405Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":10548,"level":30,"msg":"Get pet by Id 1","time":"2017-11-17T18:38:39.302Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":10548,"level":30,"msg":"Delete pet with id 0","time":"2017-11-17T18:38:51.620Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":17236,"level":30,"msg":"API listening in port 5500","time":"2017-11-17T18:39:56.878Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":17236,"level":30,"msg":"Delete pet with id 0","time":"2017-11-17T18:39:59.436Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":18492,"level":30,"msg":"API listening in port 5500","time":"2017-11-17T18:40:35.671Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":1996,"level":30,"msg":"API listening in port 5500","time":"2017-11-17T18:40:37.699Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":1996,"level":30,"msg":"Delete pet with id 0","time":"2017-11-17T18:40:39.429Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":1996,"level":30,"msg":"Get pet by Id 1","time":"2017-11-17T18:40:42.815Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":1996,"level":30,"msg":"Get all pets","time":"2017-11-17T18:40:46.596Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":1996,"level":30,"msg":"Get all pets","time":"2017-11-17T18:40:49.999Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":1996,"level":30,"msg":"Create user with body  { name: 'test partial 2',\n  birthdate: '2017-01-01',\n  age: 4,\n  image: '',\n  vaccinate: true,\n  city: 'SG' }","time":"2017-11-17T18:40:57.658Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":1996,"level":30,"msg":"Create user with body  { name: 'test partial ',\n  birthdate: '2017-01-01',\n  age: 4,\n  image: '',\n  vaccinate: true,\n  city: 'SG' }","time":"2017-11-17T18:41:02.713Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":1996,"level":30,"msg":"Get all pets","time":"2017-11-17T18:41:04.713Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":1996,"level":30,"msg":"Delete pet with id 0","time":"2017-11-17T18:41:09.420Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":1996,"level":30,"msg":"Get all pets","time":"2017-11-17T18:41:13.453Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":8092,"level":30,"msg":"API listening in port 5500","time":"2017-11-17T18:59:56.326Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":18364,"level":30,"msg":"API listening in port 5500","time":"2017-11-17T19:04:48.280Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":15592,"level":30,"msg":"API listening in port 5500","time":"2017-11-17T19:06:54.010Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":2404,"level":30,"msg":"API listening in port 5500","time":"2017-11-17T19:07:17.507Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":2404,"level":20,"msg":"Checking if exist pet with id  0","time":"2017-11-17T19:07:33.594Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":2404,"level":30,"msg":"Create user with body  { name: 'test partial ',\n  birthdate: '2017-01-01',\n  age: 4,\n  image: '',\n  vaccinate: true,\n  city: 'SG' }","time":"2017-11-17T19:09:09.918Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":2404,"level":30,"msg":"Create user with body  { name: 'test partial ',\n  birthdate: '2017-01-01',\n  age: 4,\n  image: '',\n  vaccinate: true,\n  city: 'SG' }","time":"2017-11-17T19:09:10.091Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":2404,"level":30,"msg":"Create user with body  { name: 'test partial ',\n  birthdate: '2017-01-01',\n  age: 4,\n  image: '',\n  vaccinate: true,\n  city: 'SG' }","time":"2017-11-17T19:09:10.254Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":2404,"level":30,"msg":"Create user with body  { name: 'test partial ',\n  birthdate: '2017-01-01',\n  age: 4,\n  image: '',\n  vaccinate: true,\n  city: 'SG' }","time":"2017-11-17T19:09:10.422Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":2404,"level":30,"msg":"Create user with body  { name: 'test partial ',\n  birthdate: '2017-01-01',\n  age: 4,\n  image: '',\n  vaccinate: true,\n  city: 'SG' }","time":"2017-11-17T19:09:10.602Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":2404,"level":30,"msg":"Create user with body  { name: 'test partial ',\n  birthdate: '2017-01-01',\n  age: 4,\n  image: '',\n  vaccinate: true,\n  city: 'SG' }","time":"2017-11-17T19:09:10.764Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":2404,"level":30,"msg":"Create user with body  { name: 'test partial ',\n  birthdate: '2017-01-01',\n  age: 4,\n  image: '',\n  vaccinate: true,\n  city: 'SG' }","time":"2017-11-17T19:09:10.936Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":16316,"level":30,"msg":"API listening in port 9000","time":"2017-11-17T19:53:50.700Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":16316,"level":30,"msg":"Create user with body  { name: 'mmama',\n  birthdate: '2017-01-01',\n  age: 4,\n  vaccinate: true,\n  city: 'SG' }","time":"2017-11-17T19:53:53.522Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":16316,"level":30,"msg":"Create user with body  { name: 'mmama',\n  birthdate: '2017-01-01',\n  age: 4,\n  vaccinate: true,\n  city: 'SG' }","time":"2017-11-17T19:53:53.652Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":16316,"level":30,"msg":"Create user with body  { name: 'mmama',\n  birthdate: '2017-01-01',\n  age: 4,\n  vaccinate: true,\n  city: 'SG' }","time":"2017-11-17T19:53:53.796Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":15060,"level":30,"msg":"API listening in port 9000","time":"2017-11-17T19:55:44.464Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":3540,"level":30,"msg":"API listening in port 9000","time":"2017-11-17T19:55:48.857Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":18388,"level":30,"msg":"API listening in port 9000","time":"2017-11-17T19:57:09.216Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":3660,"level":30,"msg":"API listening in port 9000","time":"2017-11-17T20:01:03.635Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":3548,"level":30,"msg":"API listening in port 9000","time":"2017-11-17T20:01:40.166Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":15368,"level":30,"msg":"API listening in port 9000","time":"2017-11-17T20:03:38.709Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":9660,"level":30,"msg":"API listening in port 9000","time":"2017-11-17T20:03:59.604Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":17644,"level":30,"msg":"API listening in port 9000","time":"2017-11-18T09:15:19.260Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":19276,"level":30,"msg":"API listening in port 9000","time":"2017-11-18T09:28:38.074Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":6368,"level":30,"msg":"API listening in port 9000","time":"2017-11-18T09:28:39.458Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":20540,"level":30,"msg":"API listening in port 9000","time":"2017-11-18T09:28:56.539Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":10716,"level":30,"msg":"API listening in port 9000","time":"2017-11-18T09:29:09.194Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":10716,"level":30,"msg":"Generating home page","time":"2017-11-18T09:29:17.503Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":10716,"level":30,"msg":"Generating home page","time":"2017-11-18T09:29:23.727Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":10716,"level":30,"msg":"Generating home page","time":"2017-11-18T09:29:32.512Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":14588,"level":30,"msg":"API listening in port 9000","time":"2017-11-18T09:30:05.985Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":14588,"level":30,"msg":"Generating home page","time":"2017-11-18T09:30:07.233Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":14588,"level":30,"msg":"Generating home page","time":"2017-11-18T09:30:09.560Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":21012,"level":30,"msg":"API listening in port 9000","time":"2017-11-18T09:30:54.041Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":9628,"level":30,"msg":"API listening in port 9000","time":"2017-11-18T09:30:59.958Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":9628,"level":30,"msg":"Generating home page","time":"2017-11-18T09:31:01.423Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":9628,"level":30,"msg":"Generating home page","time":"2017-11-18T09:31:03.516Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":6640,"level":30,"msg":"API listening in port 9000","time":"2017-11-18T09:31:20.734Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":6640,"level":30,"msg":"Generating home page","time":"2017-11-18T09:31:22.742Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":6640,"level":30,"msg":"Generating home page","time":"2017-11-18T09:31:28.795Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":16412,"level":30,"msg":"API listening in port 9000","time":"2017-11-18T09:31:59.299Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":11028,"level":30,"msg":"API listening in port 9000","time":"2017-11-18T09:32:39.405Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":1616,"level":30,"msg":"API listening in port 9000","time":"2017-11-18T09:32:50.484Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":20236,"level":30,"msg":"API listening in port 9000","time":"2017-11-18T09:35:12.204Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":14756,"level":30,"msg":"API listening in port 9000","time":"2017-11-18T09:38:15.535Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":20844,"level":30,"msg":"API listening in port 9000","time":"2017-11-18T09:38:41.797Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":20844,"level":30,"msg":"Generating home page","time":"2017-11-18T09:38:46.252Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":988,"level":30,"msg":"API listening in port 9000","time":"2017-11-18T09:39:17.654Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":988,"level":30,"msg":"Generating home page","time":"2017-11-18T09:39:21.141Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":8692,"level":30,"msg":"API listening in port 9000","time":"2017-11-18T09:39:57.003Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":8692,"level":30,"msg":"Generating home page","time":"2017-11-18T09:40:00.926Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":8692,"level":30,"msg":"Generating pet page","time":"2017-11-18T09:45:43.168Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":16000,"level":30,"msg":"API listening in port 9000","time":"2017-11-18T09:48:32.982Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":16000,"level":30,"msg":"Get all pets","time":"2017-11-18T09:48:38.985Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":19396,"level":30,"msg":"API listening in port 9000","time":"2017-11-18T09:50:19.092Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":19396,"level":30,"msg":"Generating pet page","time":"2017-11-18T09:50:22.192Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":16772,"level":30,"msg":"API listening in port 9000","time":"2017-11-18T09:50:47.141Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":11492,"level":30,"msg":"API listening in port 9000","time":"2017-11-18T09:54:02.648Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":17188,"level":30,"msg":"API listening in port 9000","time":"2017-11-18T09:54:34.731Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":14940,"level":30,"msg":"API listening in port 9000","time":"2017-11-18T09:56:07.726Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":16820,"level":30,"msg":"API listening in port 9000","time":"2017-11-18T09:59:38.274Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":16820,"level":30,"msg":"Create user with body  { name: 'mmama',\n  birthdate: '2017-01-01',\n  age: 4,\n  vaccinate: true,\n  city: 'SG' }","time":"2017-11-18T09:59:40.740Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":16820,"level":30,"msg":"Create user with body  { name: 'mmama',\n  birthdate: '2017-01-01',\n  age: 4,\n  vaccinate: true,\n  city: 'SG' }","time":"2017-11-18T09:59:44.307Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":16820,"level":30,"msg":"Create user with body  { name: 'mmama',\n  birthdate: '2017-01-01',\n  age: 4,\n  vaccinate: true,\n  city: 'SG' }","time":"2017-11-18T09:59:44.457Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":16820,"level":30,"msg":"Generating pet page","time":"2017-11-18T09:59:47.427Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":16820,"level":30,"msg":"Generating pet page","time":"2017-11-18T10:00:07.346Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":18560,"level":30,"msg":"API listening in port 9000","time":"2017-11-18T10:13:00.602Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":11228,"level":30,"msg":"API listening in port 9000","time":"2017-11-18T10:13:10.918Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":7604,"level":30,"msg":"API listening in port 9000","time":"2017-11-18T10:13:17.375Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":14896,"level":30,"msg":"API listening in port 9000","time":"2017-11-18T10:13:18.651Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":5272,"level":30,"msg":"API listening in port 9000","time":"2017-11-18T10:13:21.120Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":8796,"level":30,"msg":"API listening in port 9000","time":"2017-11-18T10:13:34.498Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":7256,"level":30,"msg":"API listening in port 9000","time":"2017-11-18T10:21:14.520Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":15348,"level":30,"msg":"API listening in port 9000","time":"2017-11-18T10:24:36.635Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":12088,"level":30,"msg":"API listening in port 9000","time":"2017-11-18T10:27:30.247Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":11028,"level":30,"msg":"API listening in port 9000","time":"2017-11-18T10:29:01.524Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":11028,"level":20,"msg":"Session  { cookie: \n   { httpOnly: true,\n     path: '/',\n     overwrite: true,\n     signed: true,\n     maxAge: 86400000 } }","time":"2017-11-18T10:29:39.601Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":11028,"level":30,"msg":"Generating pet page","time":"2017-11-18T10:29:39.603Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":11028,"level":20,"msg":"Session  { cookie: \n   { httpOnly: true,\n     path: '/',\n     overwrite: true,\n     signed: true,\n     maxAge: 86400000 },\n  count: 1 }","time":"2017-11-18T10:29:47.545Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":11028,"level":30,"msg":"Generating pet page","time":"2017-11-18T10:29:47.545Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":11028,"level":20,"msg":"Session  { cookie: \n   { httpOnly: true,\n     path: '/',\n     overwrite: true,\n     signed: true,\n     maxAge: 86400000 },\n  count: 2 }","time":"2017-11-18T10:29:52.157Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":11028,"level":30,"msg":"Generating pet page","time":"2017-11-18T10:29:52.157Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":8908,"level":30,"msg":"API listening in port 9000","time":"2017-11-18T10:30:35.831Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":8908,"level":20,"msg":"Session \n { cookie: \n   { httpOnly: true,\n     path: '/',\n     overwrite: true,\n     signed: true,\n     maxAge: 86400000 } }","time":"2017-11-18T10:30:37.658Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":8908,"level":30,"msg":"Generating pet page","time":"2017-11-18T10:30:37.659Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":8908,"level":20,"msg":"Session \n { cookie: \n   { httpOnly: true,\n     path: '/',\n     overwrite: true,\n     signed: true,\n     maxAge: 86400000 },\n  count: 1 }","time":"2017-11-18T10:30:44.820Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":8908,"level":30,"msg":"Generating pet page","time":"2017-11-18T10:30:44.821Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":17036,"level":30,"msg":"API listening in port 9000","time":"2017-11-18T10:37:32.747Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":9828,"level":30,"msg":"API listening in port 9000","time":"2017-11-18T10:44:08.732Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":9828,"level":20,"msg":"Session: \n { cookie: \n   { httpOnly: true,\n     path: '/',\n     overwrite: true,\n     signed: true,\n     maxAge: 86400000 } }","time":"2017-11-18T10:44:11.477Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":9828,"level":30,"msg":"Generating pet page","time":"2017-11-18T10:44:11.479Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":19500,"level":30,"msg":"API listening in port 9000","time":"2017-11-18T10:49:54.219Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":17100,"level":30,"msg":"API listening in port 9000","time":"2017-11-18T10:50:39.564Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":11528,"level":30,"msg":"API listening in port 9000","time":"2017-11-18T10:50:51.402Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":21108,"level":30,"msg":"API listening in port 9000","time":"2017-11-18T10:52:09.172Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":21108,"level":20,"msg":"Session: \n { cookie: \n   { httpOnly: true,\n     path: '/',\n     overwrite: true,\n     signed: true,\n     maxAge: 86400000 } }","time":"2017-11-18T10:52:50.656Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":21108,"level":30,"msg":"Generating pet page","time":"2017-11-18T10:52:50.657Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":21108,"level":20,"msg":"Session: \n { cookie: \n   { httpOnly: true,\n     path: '/',\n     overwrite: true,\n     signed: true,\n     maxAge: 86400000 } }","time":"2017-11-18T10:53:34.839Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":21108,"level":30,"msg":"Generating pet page","time":"2017-11-18T10:53:34.840Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":21108,"level":20,"msg":"Session: \n { cookie: \n   { httpOnly: true,\n     path: '/',\n     overwrite: true,\n     signed: true,\n     maxAge: 86400000 } }","time":"2017-11-18T10:53:47.675Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":21108,"level":20,"msg":"Checking if exist pet with id  0","time":"2017-11-18T10:53:47.675Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":21108,"level":20,"msg":"Session: \n { cookie: \n   { httpOnly: true,\n     path: '/',\n     overwrite: true,\n     signed: true,\n     maxAge: 86400000 } }","time":"2017-11-18T10:54:23.397Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":21108,"level":30,"msg":"Generating pet page","time":"2017-11-18T10:54:23.397Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":21108,"level":20,"msg":"Session: \n { cookie: \n   { httpOnly: true,\n     path: '/',\n     overwrite: true,\n     signed: true,\n     maxAge: 86400000 } }","time":"2017-11-18T10:54:59.317Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":21108,"level":30,"msg":"Generating pet page","time":"2017-11-18T10:54:59.317Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":21108,"level":20,"msg":"Session: \n { cookie: \n   { httpOnly: true,\n     path: '/',\n     overwrite: true,\n     signed: true,\n     maxAge: 86400000 } }","time":"2017-11-18T10:55:09.672Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":21108,"level":30,"msg":"Generating pet page","time":"2017-11-18T10:55:09.672Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":21108,"level":20,"msg":"Session: \n { cookie: \n   { httpOnly: true,\n     path: '/',\n     overwrite: true,\n     signed: true,\n     maxAge: 86400000 } }","time":"2017-11-18T10:55:15.413Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":21108,"level":30,"msg":"Generating pet page","time":"2017-11-18T10:55:15.413Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":17168,"level":30,"msg":"API listening in port 9000","time":"2017-11-18T10:56:40.521Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":17168,"level":20,"msg":"Session: \n { cookie: \n   { httpOnly: true,\n     path: '/',\n     overwrite: true,\n     signed: true,\n     maxAge: 86400000 } }","time":"2017-11-18T10:56:44.124Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":17168,"level":30,"msg":"Generating pet page","time":"2017-11-18T10:56:44.125Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":17168,"level":20,"msg":"Session: \n { cookie: \n   { httpOnly: true,\n     path: '/',\n     overwrite: true,\n     signed: true,\n     maxAge: 86400000 } }","time":"2017-11-18T10:57:20.789Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":17168,"level":30,"msg":"Generating pet page","time":"2017-11-18T10:57:20.789Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":17168,"level":20,"msg":"Session: \n { cookie: \n   { httpOnly: true,\n     path: '/',\n     overwrite: true,\n     signed: true,\n     maxAge: 86400000 } }","time":"2017-11-18T10:57:23.437Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":17168,"level":30,"msg":"Generating pet page","time":"2017-11-18T10:57:23.437Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":17168,"level":20,"msg":"Session: \n { cookie: \n   { httpOnly: true,\n     path: '/',\n     overwrite: true,\n     signed: true,\n     maxAge: 86400000 } }","time":"2017-11-18T10:57:24.934Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":17168,"level":30,"msg":"Generating pet page","time":"2017-11-18T10:57:24.934Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":17168,"level":20,"msg":"Session: \n { cookie: \n   { httpOnly: true,\n     path: '/',\n     overwrite: true,\n     signed: true,\n     maxAge: 86400000 } }","time":"2017-11-18T10:57:37.485Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":17168,"level":30,"msg":"Generating pet page","time":"2017-11-18T10:57:37.485Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":17168,"level":20,"msg":"Session: \n { cookie: \n   { httpOnly: true,\n     path: '/',\n     overwrite: true,\n     signed: true,\n     maxAge: 86400000 } }","time":"2017-11-18T10:57:46.157Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":17168,"level":30,"msg":"Generating pet page","time":"2017-11-18T10:57:46.157Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":19756,"level":30,"msg":"API listening in port 9000","time":"2017-11-18T10:59:51.810Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":19756,"level":20,"msg":"Session: \n { cookie: \n   { httpOnly: true,\n     path: '/',\n     overwrite: true,\n     signed: true,\n     maxAge: 86400000 } }","time":"2017-11-18T10:59:54.996Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":19756,"level":30,"msg":"Generating pet page","time":"2017-11-18T10:59:54.997Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":21052,"level":30,"msg":"API listening in port 9000","time":"2017-11-18T11:00:48.157Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":21052,"level":20,"msg":"Session: \n { cookie: \n   { httpOnly: true,\n     path: '/',\n     overwrite: true,\n     signed: true,\n     maxAge: 86400000 } }","time":"2017-11-18T11:00:53.835Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":21052,"level":30,"msg":"Generating pet page","time":"2017-11-18T11:00:53.837Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":4360,"level":30,"msg":"API listening in port 9000","time":"2017-11-18T11:03:17.785Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":4360,"level":20,"msg":"Session: \n { cookie: \n   { httpOnly: true,\n     path: '/',\n     overwrite: true,\n     signed: true,\n     maxAge: 86400000 } }","time":"2017-11-18T11:03:22.620Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":4360,"level":30,"msg":"Generating pet page","time":"2017-11-18T11:03:22.621Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":10728,"level":30,"msg":"API listening in port 9000","time":"2017-11-18T11:03:23.219Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":15380,"level":30,"msg":"API listening in port 9000","time":"2017-11-18T11:03:56.017Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":18428,"level":30,"msg":"API listening in port 9000","time":"2017-11-18T11:06:57.781Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":21260,"level":30,"msg":"API listening in port 9000","time":"2017-11-18T12:26:40.132Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":17900,"level":30,"msg":"API listening in port 9000","time":"2017-11-18T12:33:03.543Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":17900,"level":20,"msg":"Session: \n GeneratorFunctionPrototype { _invoke: [Function: invoke] }","time":"2017-11-18T12:33:10.837Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":17900,"level":30,"msg":"Generating pet page","time":"2017-11-18T12:33:10.839Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":12468,"level":30,"msg":"API listening in port 9000","time":"2017-11-18T12:34:01.325Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":19632,"level":30,"msg":"API listening in port 9000","time":"2017-11-18T12:34:22.836Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":3412,"level":30,"msg":"API listening in port 9000","time":"2017-11-18T12:35:42.209Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":3412,"level":20,"msg":"Session: \n GeneratorFunctionPrototype { _invoke: [Function: invoke] }","time":"2017-11-18T12:35:44.418Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":3412,"level":30,"msg":"Generating pet page","time":"2017-11-18T12:35:44.419Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":1636,"level":30,"msg":"API listening in port 9000","time":"2017-11-18T12:36:05.897Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":10916,"level":30,"msg":"API listening in port 9000","time":"2017-11-18T12:39:31.654Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":10492,"level":30,"msg":"API listening in port 9000","time":"2017-11-18T12:40:05.940Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":7620,"level":30,"msg":"API listening in port 9000","time":"2017-11-18T12:40:22.839Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":7620,"level":20,"msg":"Session: \n GeneratorFunctionPrototype { _invoke: [Function: invoke] }","time":"2017-11-18T12:40:28.258Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":7620,"level":30,"msg":"Generating pet page","time":"2017-11-18T12:40:28.260Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":7620,"level":20,"msg":"Session: \n GeneratorFunctionPrototype { _invoke: [Function: invoke] }","time":"2017-11-18T12:40:57.402Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":7620,"level":30,"msg":"Generating pet page","time":"2017-11-18T12:40:57.402Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":14660,"level":30,"msg":"API listening in port 9000","time":"2017-11-18T12:47:39.397Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":14660,"level":20,"msg":"Session: \n GeneratorFunctionPrototype { _invoke: [Function: invoke] }","time":"2017-11-18T12:47:41.860Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":14660,"level":30,"msg":"Generating pet page","time":"2017-11-18T12:47:41.861Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":13408,"level":30,"msg":"API listening in port 9000","time":"2017-11-18T12:47:55.922Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":9268,"level":30,"msg":"API listening in port 9000","time":"2017-11-18T12:54:16.002Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":7252,"level":30,"msg":"API listening in port 9000","time":"2017-11-18T12:55:49.360Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":7252,"level":20,"msg":"Session: \n {}","time":"2017-11-18T12:55:53.770Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":7252,"level":30,"msg":"Generating pet page","time":"2017-11-18T12:55:53.771Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":16648,"level":30,"msg":"API listening in port 9000","time":"2017-11-24T16:17:04.515Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":12048,"level":30,"msg":"API listening in port 9000","time":"2017-11-24T16:17:52.363Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":5092,"level":30,"msg":"API listening in port 9000","time":"2017-11-24T16:23:34.766Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":1180,"level":30,"msg":"API listening in port 9000","time":"2017-11-24T16:26:27.205Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":10416,"level":30,"msg":"API listening in port 9000","time":"2017-11-24T16:31:41.994Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":10416,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T16:31:45.077Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":344,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T16:35:30.993Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":344,"level":30,"msg":"API listening in port 9000","time":"2017-11-24T16:35:31.003Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":484,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T16:45:02.441Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":484,"level":30,"msg":"API listening in port 9000","time":"2017-11-24T16:45:02.452Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":5928,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T16:45:06.550Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":5928,"level":30,"msg":"API listening in port 9000","time":"2017-11-24T16:45:06.563Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":7192,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T16:49:29.812Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":7192,"level":30,"msg":"API listening in port 9000","time":"2017-11-24T16:49:29.823Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":11252,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T16:49:33.582Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":11252,"level":30,"msg":"API listening in port 9000","time":"2017-11-24T16:49:33.595Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":11252,"level":20,"msg":"Session: \n {}","time":"2017-11-24T16:49:48.980Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":11252,"level":30,"msg":"Create user with body  { name: 'mmama',\n  birthdate: '2017-01-01',\n  age: 4,\n  vaccinate: true,\n  city: 'SG' }","time":"2017-11-24T16:49:48.984Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":11252,"level":20,"msg":"Session: \n { count: 1 }","time":"2017-11-24T16:50:11.053Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":11252,"level":20,"msg":"Session: \n { count: 2 }","time":"2017-11-24T16:50:19.351Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":11252,"level":20,"msg":"Session: \n { count: 3 }","time":"2017-11-24T16:50:34.900Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":11252,"level":20,"msg":"Session: \n { count: 4 }","time":"2017-11-24T16:50:37.577Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":11252,"level":20,"msg":"Session: \n { count: 5 }","time":"2017-11-24T16:51:50.460Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":11252,"level":30,"msg":"Get all pets","time":"2017-11-24T16:51:50.460Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":11252,"level":20,"msg":"Session: \n {}","time":"2017-11-24T17:10:45.168Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":11252,"level":30,"msg":"Get all pets","time":"2017-11-24T17:10:45.168Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":11240,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:13:53.211Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":11240,"level":30,"msg":"API listening in port 9000","time":"2017-11-24T17:13:53.222Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":15640,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:14:28.740Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":15640,"level":30,"msg":"API listening in port 9000","time":"2017-11-24T17:14:28.751Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":15640,"level":20,"msg":"Session: \n { count: 1 }","time":"2017-11-24T17:14:32.370Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":15640,"level":30,"msg":"Get all pets","time":"2017-11-24T17:14:32.371Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":13796,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:19:49.325Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":13796,"level":30,"msg":"API listening in port 9000","time":"2017-11-24T17:19:49.338Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":13796,"level":20,"msg":"Session: \n { count: 2 }","time":"2017-11-24T17:20:01.859Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":13796,"level":30,"msg":"Get all pets","time":"2017-11-24T17:20:01.861Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":4260,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:21:09.536Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":4260,"level":30,"msg":"API listening in port 9000","time":"2017-11-24T17:21:09.549Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":4260,"level":20,"msg":"Session: \n { count: 3 }","time":"2017-11-24T17:21:17.312Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":4260,"level":30,"msg":"Get all pets","time":"2017-11-24T17:21:17.313Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":12092,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:21:29.354Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":12092,"level":30,"msg":"API listening in port 9000","time":"2017-11-24T17:21:29.365Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":12092,"level":20,"msg":"Session: \n { count: 3 }","time":"2017-11-24T17:21:32.970Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":12092,"level":30,"msg":"Get all pets","time":"2017-11-24T17:21:32.971Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":12092,"level":20,"msg":"Session: \n { count: 4 }","time":"2017-11-24T17:21:37.134Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":12092,"level":20,"msg":"Checking if exist pet with id  20","time":"2017-11-24T17:21:37.135Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":12092,"level":20,"msg":"Session: \n { count: 4 }","time":"2017-11-24T17:21:45.501Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":12092,"level":30,"msg":"Get all pets","time":"2017-11-24T17:21:45.502Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":13952,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:29:30.009Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":13952,"level":30,"msg":"API listening in port 9000","time":"2017-11-24T17:29:30.020Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":10972,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:30:56.020Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":10972,"level":30,"msg":"API listening in port 9000","time":"2017-11-24T17:30:56.033Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":4540,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:32:34.342Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":4540,"level":30,"msg":"API listening in port 9000","time":"2017-11-24T17:32:34.354Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":4028,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:33:13.701Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":4028,"level":30,"msg":"API listening in port 9000","time":"2017-11-24T17:33:13.714Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":16608,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:49:57.871Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":16608,"level":30,"msg":"API listening in port 9000","time":"2017-11-24T17:49:57.882Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":16608,"level":20,"msg":"Session: \n { count: 5 }","time":"2017-11-24T17:56:34.039Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":16608,"level":30,"msg":"Create user with body  { name: 'mmama',\n  birthdate: '2017-01-01',\n  age: 4,\n  vaccinate: true,\n  city: 'SG' }","time":"2017-11-24T17:56:34.042Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":16608,"level":20,"msg":"Session: \n { count: 6 }","time":"2017-11-24T17:56:34.685Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":16608,"level":30,"msg":"Create user with body  { name: 'mmama',\n  birthdate: '2017-01-01',\n  age: 4,\n  vaccinate: true,\n  city: 'SG' }","time":"2017-11-24T17:56:34.685Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":16608,"level":20,"msg":"Session: \n { count: 7 }","time":"2017-11-24T17:56:35.234Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":16608,"level":30,"msg":"Create user with body  { name: 'mmama',\n  birthdate: '2017-01-01',\n  age: 4,\n  vaccinate: true,\n  city: 'SG' }","time":"2017-11-24T17:56:35.235Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":16608,"level":20,"msg":"Session: \n { count: 8 }","time":"2017-11-24T17:56:35.725Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":16608,"level":30,"msg":"Create user with body  { name: 'mmama',\n  birthdate: '2017-01-01',\n  age: 4,\n  vaccinate: true,\n  city: 'SG' }","time":"2017-11-24T17:56:35.725Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":16608,"level":20,"msg":"Session: \n { count: 9 }","time":"2017-11-24T17:56:36.384Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":16608,"level":30,"msg":"Create user with body  { name: 'mmama',\n  birthdate: '2017-01-01',\n  age: 4,\n  vaccinate: true,\n  city: 'SG' }","time":"2017-11-24T17:56:36.385Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":16608,"level":20,"msg":"Session: \n { count: 10 }","time":"2017-11-24T17:56:39.107Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":16608,"level":30,"msg":"Get all pets","time":"2017-11-24T17:56:39.107Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":16608,"level":20,"msg":"Session: \n { count: 11 }","time":"2017-11-24T17:56:42.816Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":16608,"level":30,"msg":"Get all pets","time":"2017-11-24T17:56:42.816Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":16608,"level":20,"msg":"Session: \n { count: 12 }","time":"2017-11-24T17:56:47.596Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":16608,"level":30,"msg":"Create user with body  { name: 'mmama',\n  birthdate: '2017-01-01',\n  age: 4,\n  vaccinate: true,\n  city: 'SG' }","time":"2017-11-24T17:56:47.596Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":16608,"level":20,"msg":"Session: \n { count: 13 }","time":"2017-11-24T17:56:54.549Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":16608,"level":30,"msg":"Create user with body  { name: 'mmama',\n  birthdate: '2017-01-01',\n  age: 4,\n  vaccinate: true,\n  city: 'SG' }","time":"2017-11-24T17:56:54.549Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":16608,"level":20,"msg":"Session: \n { count: 14 }","time":"2017-11-24T17:56:55.379Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":16608,"level":30,"msg":"Create user with body  { name: 'mmama',\n  birthdate: '2017-01-01',\n  age: 4,\n  vaccinate: true,\n  city: 'SG' }","time":"2017-11-24T17:56:55.379Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":16608,"level":20,"msg":"Session: \n { count: 15 }","time":"2017-11-24T17:56:56.105Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":16608,"level":30,"msg":"Create user with body  { name: 'mmama',\n  birthdate: '2017-01-01',\n  age: 4,\n  vaccinate: true,\n  city: 'SG' }","time":"2017-11-24T17:56:56.106Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":16608,"level":20,"msg":"Session: \n { count: 16 }","time":"2017-11-24T17:56:56.703Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":16608,"level":30,"msg":"Create user with body  { name: 'mmama',\n  birthdate: '2017-01-01',\n  age: 4,\n  vaccinate: true,\n  city: 'SG' }","time":"2017-11-24T17:56:56.703Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":16608,"level":20,"msg":"Session: \n { count: 17 }","time":"2017-11-24T17:56:58.709Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":16608,"level":30,"msg":"Get all pets","time":"2017-11-24T17:56:58.709Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":16608,"level":20,"msg":"Session: \n { count: 18 }","time":"2017-11-24T17:57:11.287Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":16608,"level":20,"msg":"Checking if exist pet with id  0","time":"2017-11-24T17:57:11.288Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":7136,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T17:57:49.463Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":7136,"level":30,"msg":"API listening in port 9000","time":"2017-11-24T17:57:49.474Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":7136,"level":20,"msg":"Session: \n { count: 18 }","time":"2017-11-24T17:57:52.815Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":7136,"level":20,"msg":"Checking if exist pet with id  0","time":"2017-11-24T17:57:52.817Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":7136,"level":20,"msg":"Session: \n { count: 18 }","time":"2017-11-24T17:58:11.390Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":7136,"level":30,"msg":"Get all pets","time":"2017-11-24T17:58:11.390Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":7136,"level":20,"msg":"Session: \n { count: 19 }","time":"2017-11-24T17:58:22.790Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":7136,"level":20,"msg":"Checking if exist pet with id  5a184dac6ac19c2bf45f26f6","time":"2017-11-24T17:58:22.790Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":7136,"level":30,"msg":"Delete pet with id 5a184dac6ac19c2bf45f26f6","time":"2017-11-24T17:58:22.794Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":7136,"level":20,"msg":"Session: \n { count: 20 }","time":"2017-11-24T17:58:37.722Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":7136,"level":30,"msg":"Get all pets","time":"2017-11-24T17:58:37.722Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":10624,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T18:01:15.204Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":10624,"level":30,"msg":"API listening in port 9000","time":"2017-11-24T18:01:15.217Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":15188,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T18:01:48.022Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":15188,"level":30,"msg":"API listening in port 9000","time":"2017-11-24T18:01:48.032Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":1708,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T18:02:22.538Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":1708,"level":30,"msg":"API listening in port 9000","time":"2017-11-24T18:02:22.551Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":14476,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T19:10:16.072Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":14476,"level":30,"msg":"API listening in port 9000","time":"2017-11-24T19:10:16.084Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":2920,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T19:10:44.812Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":2920,"level":30,"msg":"API listening in port 9000","time":"2017-11-24T19:10:44.824Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":16968,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T19:11:52.297Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":16968,"level":30,"msg":"API listening in port 9000","time":"2017-11-24T19:11:52.308Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":1700,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T19:13:15.123Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":1700,"level":30,"msg":"API listening in port 9000","time":"2017-11-24T19:13:15.133Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":16888,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T19:24:31.038Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":16888,"level":30,"msg":"API listening in port 9000","time":"2017-11-24T19:24:31.050Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":10324,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T19:29:45.436Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":10324,"level":30,"msg":"API listening in port 9000","time":"2017-11-24T19:29:45.448Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":10324,"level":20,"msg":"Session: \n {}","time":"2017-11-24T19:31:04.497Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":10324,"level":30,"msg":"Generating pet page","time":"2017-11-24T19:31:04.500Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":10324,"level":20,"msg":"Session: \n { count: 1 }","time":"2017-11-24T19:31:05.016Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":15116,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T19:34:42.210Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":15116,"level":30,"msg":"API listening in port 9000","time":"2017-11-24T19:34:42.220Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":16444,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T19:34:46.313Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":16444,"level":30,"msg":"API listening in port 9000","time":"2017-11-24T19:34:46.327Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":16444,"level":20,"msg":"Session: \n { count: 2 }","time":"2017-11-24T19:34:47.985Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":11408,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T19:36:41.016Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":11408,"level":30,"msg":"API listening in port 9000","time":"2017-11-24T19:36:41.028Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":11408,"level":20,"msg":"Session: \n { count: 3 }","time":"2017-11-24T19:36:44.780Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":11408,"level":20,"msg":"Session: \n { count: 4 }","time":"2017-11-24T19:37:00.438Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":11408,"level":20,"msg":"Doing authetification with admin and admin","time":"2017-11-24T19:37:00.438Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":15512,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T19:43:17.388Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":15512,"level":30,"msg":"API listening in port 9000","time":"2017-11-24T19:43:17.403Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":15512,"level":20,"msg":"Session: \n { count: 4 }","time":"2017-11-24T19:43:32.131Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":15512,"level":20,"msg":"Doing authentication with admin and admin","time":"2017-11-24T19:43:32.132Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":15512,"level":30,"msg":"Generating pet page","time":"2017-11-24T19:43:32.133Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":15512,"level":20,"msg":"Session: \n { count: 5,\n  passport: { user: { name: 'Admin', role: 'ADMIN' } } }","time":"2017-11-24T19:43:34.553Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":15512,"level":20,"msg":"Doing authentication with admin and admin","time":"2017-11-24T19:43:34.553Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":15512,"level":30,"msg":"Generating pet page","time":"2017-11-24T19:43:34.554Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":15968,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T19:46:02.023Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":15968,"level":30,"msg":"API listening in port 9000","time":"2017-11-24T19:46:02.039Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":2396,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T19:48:18.169Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":2396,"level":30,"msg":"API listening in port 9000","time":"2017-11-24T19:48:18.182Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":6488,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T19:48:51.438Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":912,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T19:49:03.727Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":6096,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T19:49:19.376Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":6096,"level":30,"msg":"API listening in port 9000","time":"2017-11-24T19:49:19.392Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":17808,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T19:53:29.232Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":17808,"level":30,"msg":"API listening in port 9000","time":"2017-11-24T19:53:29.245Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":17808,"level":20,"msg":"Session: \n { count: 21 }","time":"2017-11-24T19:55:05.755Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":17808,"level":20,"msg":"Session: \n { count: 22 }","time":"2017-11-24T19:55:24.357Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":17808,"level":20,"msg":"Session: \n { count: 23 }","time":"2017-11-24T19:55:39.929Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":17808,"level":30,"msg":"Create user with body  { name: 'juanito',\n  birthdate: '2017-01-01',\n  age: 4,\n  vaccinate: true,\n  city: 'SG' }","time":"2017-11-24T19:55:39.930Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":17808,"level":20,"msg":"Session: \n {}","time":"2017-11-24T20:00:55.017Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":17808,"level":30,"msg":"Generating home page","time":"2017-11-24T20:00:55.017Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":17808,"level":20,"msg":"Session: \n { count: 1 }","time":"2017-11-24T20:00:55.083Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":17808,"level":20,"msg":"Session: \n { count: 2 }","time":"2017-11-24T20:00:58.899Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":17808,"level":20,"msg":"Session: \n { count: 3 }","time":"2017-11-24T20:01:02.353Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":17808,"level":20,"msg":"Doing authentication with admin and admin","time":"2017-11-24T20:01:02.354Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":17808,"level":30,"msg":"Generating pet page","time":"2017-11-24T20:01:02.355Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":17808,"level":20,"msg":"Session: \n { count: 4, passport: { user: 1 } }","time":"2017-11-24T20:01:07.613Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":17808,"level":20,"msg":"Doing authentication with admin and admin","time":"2017-11-24T20:01:07.613Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":17808,"level":30,"msg":"Generating pet page","time":"2017-11-24T20:01:07.613Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":3792,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-24T20:03:33.002Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":3792,"level":30,"msg":"API listening in port 9000","time":"2017-11-24T20:03:33.017Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":9336,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T09:11:24.523Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":9336,"level":30,"msg":"API listening in port 9000","time":"2017-11-25T09:11:24.539Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":3152,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T09:12:49.937Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":3152,"level":30,"msg":"API listening in port 9000","time":"2017-11-25T09:12:49.958Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":3560,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T09:14:25.827Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":3560,"level":30,"msg":"API listening in port 9000","time":"2017-11-25T09:14:25.876Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":17068,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T09:29:45.696Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":17068,"level":30,"msg":"API listening in port 9000","time":"2017-11-25T09:29:45.712Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":14676,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T09:48:25.172Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":16216,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T09:48:39.457Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":14056,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T09:50:11.916Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":14056,"level":30,"msg":"API listening in port 9000","time":"2017-11-25T09:50:11.933Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":14056,"level":20,"msg":"Session: \n {}","time":"2017-11-25T09:52:27.010Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":14056,"level":30,"msg":"Signup user with data  { name: 'GGO',\n  email: 'guillermo.gomez@intelygenz.com',\n  password: 1234 }","time":"2017-11-25T09:52:27.011Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":14056,"level":20,"msg":"Session: \n {}","time":"2017-11-25T09:52:43.391Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":14056,"level":30,"msg":"Signup user with data  { name: 'GGO',\n  email: 'guillermo.gomez@intelygenz.com',\n  password: '1234' }","time":"2017-11-25T09:52:43.391Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":6468,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T09:53:09.590Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":6468,"level":30,"msg":"API listening in port 9000","time":"2017-11-25T09:53:09.608Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":6468,"level":20,"msg":"Session: \n {}","time":"2017-11-25T09:53:18.978Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":6468,"level":30,"msg":"Signup user with data  { name: 'GGO',\n  email: 'guillermo.gomez@intelygenz.com',\n  password: '1234' }","time":"2017-11-25T09:53:18.980Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":7784,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T09:54:13.278Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":7784,"level":30,"msg":"API listening in port 9000","time":"2017-11-25T09:54:13.297Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":7784,"level":20,"msg":"Session: \n {}","time":"2017-11-25T09:54:16.271Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":7784,"level":30,"msg":"Signup user with data  { name: 'GGO',\n  email: 'guillermo.gomez@intelygenz.com',\n  password: '1234' }","time":"2017-11-25T09:54:16.273Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":13400,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T10:01:39.737Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":13400,"level":30,"msg":"API listening in port 9000","time":"2017-11-25T10:01:39.756Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":11492,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T10:16:09.047Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":15036,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T10:19:28.181Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":15036,"level":30,"msg":"API listening in port 9000","time":"2017-11-25T10:19:28.204Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":11048,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T10:21:04.753Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":11048,"level":30,"msg":"API listening in port 9000","time":"2017-11-25T10:21:04.774Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":11048,"level":20,"msg":"Session: \n {}","time":"2017-11-25T10:21:13.735Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":11048,"level":20,"msg":"Session: \n { count: 1 }","time":"2017-11-25T10:21:14.259Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":11048,"level":20,"msg":"Session: \n { count: 2 }","time":"2017-11-25T10:22:04.659Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":3052,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T10:27:03.054Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":3052,"level":30,"msg":"API listening in port 9000","time":"2017-11-25T10:27:03.081Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":11444,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T10:29:22.350Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":11444,"level":30,"msg":"API listening in port 9000","time":"2017-11-25T10:29:22.370Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":4856,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T10:33:27.237Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":4856,"level":30,"msg":"API listening in port 9000","time":"2017-11-25T10:33:27.256Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":4856,"level":20,"msg":"Session: \n { count: 3 }","time":"2017-11-25T10:33:33.278Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":4856,"level":20,"msg":"Session: \n { count: 4 }","time":"2017-11-25T10:33:39.149Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":14556,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T10:34:49.925Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":14556,"level":30,"msg":"API listening in port 9000","time":"2017-11-25T10:34:49.948Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":14556,"level":20,"msg":"Session: \n { count: 5 }","time":"2017-11-25T10:35:17.095Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":14556,"level":20,"msg":"Session: \n { count: 6 }","time":"2017-11-25T10:35:43.641Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":14556,"level":20,"msg":"Session: \n { count: 7 }","time":"2017-11-25T10:36:03.059Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":14556,"level":20,"msg":"Session: \n { count: 8 }","time":"2017-11-25T10:36:03.749Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":14556,"level":20,"msg":"Session: \n { count: 9 }","time":"2017-11-25T10:36:08.854Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":8112,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T10:36:51.759Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":8112,"level":30,"msg":"API listening in port 9000","time":"2017-11-25T10:36:51.779Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":6628,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T10:37:33.901Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":6628,"level":30,"msg":"API listening in port 9000","time":"2017-11-25T10:37:33.924Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":6628,"level":20,"msg":"Session: \n { count: 10, passport: { user: '5a193d8e8a25011944be5249' } }","time":"2017-11-25T10:37:36.576Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":6628,"level":20,"msg":"Session: \n { count: 11, passport: { user: '5a193d8e8a25011944be5249' } }","time":"2017-11-25T10:37:37.676Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":6628,"level":20,"msg":"Session: \n { count: 12, passport: { user: '5a193d8e8a25011944be5249' } }","time":"2017-11-25T10:37:41.664Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":6628,"level":20,"msg":"Session: \n { count: 13, passport: { user: '5a193d8e8a25011944be5249' } }","time":"2017-11-25T10:37:41.676Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":5128,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T10:37:59.983Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":5128,"level":30,"msg":"API listening in port 9000","time":"2017-11-25T10:38:00.008Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":5128,"level":20,"msg":"Session: \n { count: 14, passport: { user: '5a193d8e8a25011944be5249' } }","time":"2017-11-25T10:38:07.668Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":5128,"level":20,"msg":"Session: \n { count: 15, passport: { user: '5a193d8e8a25011944be5249' } }","time":"2017-11-25T10:38:12.952Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":5128,"level":20,"msg":"Session: \n { count: 16, passport: { user: '5a193d8e8a25011944be5249' } }","time":"2017-11-25T10:38:12.965Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":5128,"level":20,"msg":"Session: \n { count: 17, passport: { user: '5a193d8e8a25011944be5249' } }","time":"2017-11-25T10:38:12.974Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":5128,"level":30,"msg":"Generating pet page","time":"2017-11-25T10:38:12.974Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":11240,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T10:50:45.237Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":11240,"level":30,"msg":"API listening in port 9000","time":"2017-11-25T10:50:45.255Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":11240,"level":20,"msg":"Session: \n { count: 18, passport: { user: '5a193d8e8a25011944be5249' } }","time":"2017-11-25T11:10:11.659Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":11240,"level":20,"msg":"Session: \n { count: 19, passport: { user: '5a193d8e8a25011944be5249' } }","time":"2017-11-25T11:10:21.906Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":11240,"level":20,"msg":"Session: \n { count: 20, passport: { user: '5a193d8e8a25011944be5249' } }","time":"2017-11-25T11:10:29.404Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":11240,"level":20,"msg":"Session: \n { count: 21, passport: { user: '5a193d8e8a25011944be5249' } }","time":"2017-11-25T11:10:29.418Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":11240,"level":20,"msg":"Session: \n { count: 22, passport: { user: '5a193d8e8a25011944be5249' } }","time":"2017-11-25T11:10:43.883Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":11240,"level":20,"msg":"Session: \n { count: 23, passport: { user: '5a193d8e8a25011944be5249' } }","time":"2017-11-25T11:10:46.885Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":11240,"level":20,"msg":"Session: \n { count: 24, passport: { user: '5a193d8e8a25011944be5249' } }","time":"2017-11-25T11:10:46.896Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":11240,"level":20,"msg":"Session: \n { count: 25, passport: { user: '5a193d8e8a25011944be5249' } }","time":"2017-11-25T11:10:46.904Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":260,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T11:11:38.038Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":260,"level":30,"msg":"API listening in port 9000","time":"2017-11-25T11:11:38.066Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":17060,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T11:14:11.671Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":17060,"level":30,"msg":"API listening in port 9000","time":"2017-11-25T11:14:11.700Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":17060,"level":20,"msg":"Session: \n { count: 1 }","time":"2017-11-25T11:38:09.321Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":17060,"level":30,"msg":"Signup user with data  { name: 'GGO',\n  email: 'guillermo.gomez.o@intelygenz.com',\n  password: '1234',\n  role: 'ADMIN' }","time":"2017-11-25T11:38:09.324Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":6420,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T11:38:30.512Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":6420,"level":30,"msg":"API listening in port 9000","time":"2017-11-25T11:38:30.540Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":17060,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T11:41:12.000Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":17060,"level":30,"msg":"API listening in port 9000","time":"2017-11-25T11:41:12.021Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":17060,"level":20,"msg":"Session: \n { count: 2 }","time":"2017-11-25T11:41:35.339Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":17060,"level":30,"msg":"Signup user with data  { name: 'GGO',\n  email: 'guillermo.gomez.oli@intelygenz.com',\n  password: '1234',\n  role: 'ADMIN' }","time":"2017-11-25T11:41:35.341Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":17060,"level":20,"msg":"Session: \n { count: 25, passport: { user: '5a193d8e8a25011944be5249' } }","time":"2017-11-25T11:42:25.253Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":17060,"level":20,"msg":"Session: \n { count: 26, passport: { user: '5a193d8e8a25011944be5249' } }","time":"2017-11-25T11:42:26.361Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":17060,"level":20,"msg":"Session: \n { count: 27, passport: { user: '5a193d8e8a25011944be5249' } }","time":"2017-11-25T11:42:37.567Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":17060,"level":20,"msg":"Session: \n { count: 28, passport: { user: '5a1956efa896fa42a4871f0f' } }","time":"2017-11-25T11:42:37.580Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":17060,"level":20,"msg":"Session: \n { count: 29, passport: { user: '5a1956efa896fa42a4871f0f' } }","time":"2017-11-25T11:42:37.586Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":17060,"level":30,"msg":"Generating pet page","time":"2017-11-25T11:42:37.587Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":17060,"level":20,"msg":"Session: \n { count: 3 }","time":"2017-11-25T11:42:46.975Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":17060,"level":30,"msg":"Create user with body  { name: 'mmama',\n  birthdate: '2017-01-01',\n  age: 4,\n  vaccinate: true,\n  city: 'SG' }","time":"2017-11-25T11:42:46.978Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":17060,"level":20,"msg":"Session: \n { count: 4 }","time":"2017-11-25T11:42:47.856Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":17060,"level":30,"msg":"Create user with body  { name: 'mmama',\n  birthdate: '2017-01-01',\n  age: 4,\n  vaccinate: true,\n  city: 'SG' }","time":"2017-11-25T11:42:47.857Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":17060,"level":20,"msg":"Session: \n { count: 30, passport: { user: '5a1956efa896fa42a4871f0f' } }","time":"2017-11-25T11:42:49.396Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":17060,"level":30,"msg":"Generating pet page","time":"2017-11-25T11:42:49.396Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":13684,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T11:48:23.886Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":13684,"level":30,"msg":"API listening in port 9000","time":"2017-11-25T11:48:23.905Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":11748,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T12:04:43.120Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":11748,"level":30,"msg":"API listening in port 9000","time":"2017-11-25T12:04:43.151Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":14688,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T12:07:43.245Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":14688,"level":30,"msg":"API listening in port 9000","time":"2017-11-25T12:07:43.280Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":14688,"level":20,"msg":"Session: \n { count: 31, passport: { user: '5a1956efa896fa42a4871f0f' } }","time":"2017-11-25T12:08:05.778Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":14688,"level":20,"msg":"Session: \n { count: 32,\n  passport: { user: '5a1956efa896fa42a4871f0f' },\n  'oauth:twitter': \n   { oauth_token: '5c6l4gAAAAAA3WMRAAABX_MT1rE',\n     oauth_token_secret: 'ApXwVs5lJOGlowFYPig5V8n7rJzF5gKD' } }","time":"2017-11-25T12:08:19.744Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":14688,"level":20,"id":"934107357776416769","username":"guille_g31","displayName":"guillermo gomez","photos":[{"value":"https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png"}],"provider":"twitter","_raw":"{\"id\":934107357776416769,\"id_str\":\"934107357776416769\",\"name\":\"guillermo gomez\",\"screen_name\":\"guille_g31\",\"location\":\"\",\"description\":\"\",\"url\":null,\"entities\":{\"description\":{\"urls\":[]}},\"protected\":false,\"followers_count\":0,\"friends_count\":5,\"listed_count\":0,\"created_at\":\"Fri Nov 24 17:12:03 +0000 2017\",\"favourites_count\":0,\"utc_offset\":null,\"time_zone\":null,\"geo_enabled\":false,\"verified\":false,\"statuses_count\":0,\"lang\":\"es\",\"contributors_enabled\":false,\"is_translator\":false,\"is_translation_enabled\":false,\"profile_background_color\":\"F5F8FA\",\"profile_background_image_url\":null,\"profile_background_image_url_https\":null,\"profile_background_tile\":false,\"profile_image_url\":\"http:\\/\\/abs.twimg.com\\/sticky\\/default_profile_images\\/default_profile_normal.png\",\"profile_image_url_https\":\"https:\\/\\/abs.twimg.com\\/sticky\\/default_profile_images\\/default_profile_normal.png\",\"profile_link_color\":\"1DA1F2\",\"profile_sidebar_border_color\":\"C0DEED\",\"profile_sidebar_fill_color\":\"DDEEF6\",\"profile_text_color\":\"333333\",\"profile_use_background_image\":true,\"has_extended_profile\":false,\"default_profile\":true,\"default_profile_image\":true,\"following\":false,\"follow_request_sent\":false,\"notifications\":false,\"translator_type\":\"none\"}","_json":{"id":934107357776416800,"id_str":"934107357776416769","name":"guillermo gomez","screen_name":"guille_g31","location":"","description":"","url":null,"entities":{"description":{"urls":[]}},"protected":false,"followers_count":0,"friends_count":5,"listed_count":0,"created_at":"Fri Nov 24 17:12:03 +0000 2017","favourites_count":0,"utc_offset":null,"time_zone":null,"geo_enabled":false,"verified":false,"statuses_count":0,"lang":"es","contributors_enabled":false,"is_translator":false,"is_translation_enabled":false,"profile_background_color":"F5F8FA","profile_background_image_url":null,"profile_background_image_url_https":null,"profile_background_tile":false,"profile_image_url":"http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png","profile_image_url_https":"https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png","profile_link_color":"1DA1F2","profile_sidebar_border_color":"C0DEED","profile_sidebar_fill_color":"DDEEF6","profile_text_color":"333333","profile_use_background_image":true,"has_extended_profile":false,"default_profile":true,"default_profile_image":true,"following":false,"follow_request_sent":false,"notifications":false,"translator_type":"none"},"_accessLevel":"read","msg":"","time":"2017-11-25T12:08:20.511Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":14688,"level":20,"msg":"Session: \n { count: 32,\n  passport: { user: '5a1956efa896fa42a4871f0f' },\n  'oauth:twitter': \n   { oauth_token: '5c6l4gAAAAAA3WMRAAABX_MT1rE',\n     oauth_token_secret: 'ApXwVs5lJOGlowFYPig5V8n7rJzF5gKD' } }","time":"2017-11-25T12:10:19.813Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":14688,"level":20,"msg":"Session: \n { count: 32,\n  passport: { user: '5a1956efa896fa42a4871f0f' },\n  'oauth:twitter': \n   { oauth_token: '5c6l4gAAAAAA3WMRAAABX_MT1rE',\n     oauth_token_secret: 'ApXwVs5lJOGlowFYPig5V8n7rJzF5gKD' } }","time":"2017-11-25T12:14:30.801Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":14688,"level":20,"msg":"Session: \n { count: 33,\n  passport: { user: '5a1956efa896fa42a4871f0f' },\n  'oauth:twitter': \n   { oauth_token: '7X6M1QAAAAAA3WMRAAABX_MZtjk',\n     oauth_token_secret: '5OT5rzbAACegd9AGNm1eeSmURws56vqS' } }","time":"2017-11-25T12:14:45.871Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":14688,"level":20,"id":"934107357776416769","username":"guille_g31","displayName":"guillermo gomez","photos":[{"value":"https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png"}],"provider":"twitter","_raw":"{\"id\":934107357776416769,\"id_str\":\"934107357776416769\",\"name\":\"guillermo gomez\",\"screen_name\":\"guille_g31\",\"location\":\"\",\"description\":\"\",\"url\":null,\"entities\":{\"description\":{\"urls\":[]}},\"protected\":false,\"followers_count\":0,\"friends_count\":5,\"listed_count\":0,\"created_at\":\"Fri Nov 24 17:12:03 +0000 2017\",\"favourites_count\":0,\"utc_offset\":null,\"time_zone\":null,\"geo_enabled\":false,\"verified\":false,\"statuses_count\":0,\"lang\":\"es\",\"contributors_enabled\":false,\"is_translator\":false,\"is_translation_enabled\":false,\"profile_background_color\":\"F5F8FA\",\"profile_background_image_url\":null,\"profile_background_image_url_https\":null,\"profile_background_tile\":false,\"profile_image_url\":\"http:\\/\\/abs.twimg.com\\/sticky\\/default_profile_images\\/default_profile_normal.png\",\"profile_image_url_https\":\"https:\\/\\/abs.twimg.com\\/sticky\\/default_profile_images\\/default_profile_normal.png\",\"profile_link_color\":\"1DA1F2\",\"profile_sidebar_border_color\":\"C0DEED\",\"profile_sidebar_fill_color\":\"DDEEF6\",\"profile_text_color\":\"333333\",\"profile_use_background_image\":true,\"has_extended_profile\":false,\"default_profile\":true,\"default_profile_image\":true,\"following\":false,\"follow_request_sent\":false,\"notifications\":false,\"translator_type\":\"none\"}","_json":{"id":934107357776416800,"id_str":"934107357776416769","name":"guillermo gomez","screen_name":"guille_g31","location":"","description":"","url":null,"entities":{"description":{"urls":[]}},"protected":false,"followers_count":0,"friends_count":5,"listed_count":0,"created_at":"Fri Nov 24 17:12:03 +0000 2017","favourites_count":0,"utc_offset":null,"time_zone":null,"geo_enabled":false,"verified":false,"statuses_count":0,"lang":"es","contributors_enabled":false,"is_translator":false,"is_translation_enabled":false,"profile_background_color":"F5F8FA","profile_background_image_url":null,"profile_background_image_url_https":null,"profile_background_tile":false,"profile_image_url":"http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png","profile_image_url_https":"https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png","profile_link_color":"1DA1F2","profile_sidebar_border_color":"C0DEED","profile_sidebar_fill_color":"DDEEF6","profile_text_color":"333333","profile_use_background_image":true,"has_extended_profile":false,"default_profile":true,"default_profile_image":true,"following":false,"follow_request_sent":false,"notifications":false,"translator_type":"none"},"_accessLevel":"read","msg":"","time":"2017-11-25T12:14:46.650Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":14688,"level":20,"msg":"Session: \n { count: 33,\n  passport: { user: '5a1956efa896fa42a4871f0f' },\n  'oauth:twitter': \n   { oauth_token: '7X6M1QAAAAAA3WMRAAABX_MZtjk',\n     oauth_token_secret: '5OT5rzbAACegd9AGNm1eeSmURws56vqS' } }","time":"2017-11-25T12:16:45.922Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":828,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T12:23:26.555Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":828,"level":30,"msg":"API listening in port 9000","time":"2017-11-25T12:23:26.592Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":12260,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T12:26:28.197Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":12260,"level":30,"msg":"API listening in port 9000","time":"2017-11-25T12:26:28.232Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":12260,"level":20,"msg":"Session: \n { count: 33,\n  passport: { user: '5a1956efa896fa42a4871f0f' },\n  'oauth:twitter': \n   { oauth_token: '7X6M1QAAAAAA3WMRAAABX_MZtjk',\n     oauth_token_secret: '5OT5rzbAACegd9AGNm1eeSmURws56vqS' } }","time":"2017-11-25T12:26:42.404Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":12260,"level":20,"msg":"Session: \n { count: 34,\n  passport: { user: '5a1956efa896fa42a4871f0f' },\n  'oauth:twitter': \n   { oauth_token: '7X6M1QAAAAAA3WMRAAABX_MZtjk',\n     oauth_token_secret: '5OT5rzbAACegd9AGNm1eeSmURws56vqS' } }","time":"2017-11-25T12:26:44.311Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":12260,"level":20,"msg":"Session: \n { count: 35,\n  passport: { user: '5a1956efa896fa42a4871f0f' },\n  'oauth:twitter': \n   { oauth_token: 'HXLLZAAAAAAA3WMRAAABX_Mk59A',\n     oauth_token_secret: '7ehzqWJmkXLlBBpbaVvjwP01qNiUFqwY' } }","time":"2017-11-25T12:26:46.535Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":12260,"level":20,"msg":"Session: \n { count: 35,\n  passport: { user: '5a1956efa896fa42a4871f0f' },\n  'oauth:twitter': \n   { oauth_token: 'HXLLZAAAAAAA3WMRAAABX_Mk59A',\n     oauth_token_secret: '7ehzqWJmkXLlBBpbaVvjwP01qNiUFqwY' } }","time":"2017-11-25T12:28:46.536Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":12260,"level":20,"msg":"Session: \n { count: 35,\n  passport: { user: '5a1956efa896fa42a4871f0f' },\n  'oauth:twitter': \n   { oauth_token: 'HXLLZAAAAAAA3WMRAAABX_Mk59A',\n     oauth_token_secret: '7ehzqWJmkXLlBBpbaVvjwP01qNiUFqwY' } }","time":"2017-11-25T12:33:12.385Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":12260,"level":20,"msg":"Session: \n { count: 36,\n  passport: { user: '5a1956efa896fa42a4871f0f' },\n  'oauth:twitter': \n   { oauth_token: 'HXLLZAAAAAAA3WMRAAABX_Mk59A',\n     oauth_token_secret: '7ehzqWJmkXLlBBpbaVvjwP01qNiUFqwY' } }","time":"2017-11-25T12:33:12.853Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":12260,"level":20,"msg":"Session: \n { count: 37,\n  passport: { user: '5a1956efa896fa42a4871f0f' },\n  'oauth:twitter': \n   { oauth_token: 'HXLLZAAAAAAA3WMRAAABX_Mk59A',\n     oauth_token_secret: '7ehzqWJmkXLlBBpbaVvjwP01qNiUFqwY' } }","time":"2017-11-25T12:33:19.128Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":12260,"level":20,"msg":"Session: \n { count: 38,\n  passport: { user: '5a1956efa896fa42a4871f0f' },\n  'oauth:twitter': \n   { oauth_token: 'wA3ReAAAAAAA3WMRAAABX_Mq7dA',\n     oauth_token_secret: 'SHW3si2xLeIHYiMCyYO1QcxHFVSzThx3' } }","time":"2017-11-25T12:33:22.137Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":3688,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T12:35:11.240Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":3688,"level":30,"msg":"API listening in port 9000","time":"2017-11-25T12:35:11.279Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":3688,"level":20,"msg":"Session: \n { count: 38,\n  passport: { user: '5a1956efa896fa42a4871f0f' },\n  'oauth:twitter': \n   { oauth_token: 'wA3ReAAAAAAA3WMRAAABX_Mq7dA',\n     oauth_token_secret: 'SHW3si2xLeIHYiMCyYO1QcxHFVSzThx3' } }","time":"2017-11-25T12:35:11.337Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":11484,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T12:35:29.050Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":11484,"level":30,"msg":"API listening in port 9000","time":"2017-11-25T12:35:29.084Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":11484,"level":20,"msg":"Session: \n { count: 38,\n  passport: { user: '5a1956efa896fa42a4871f0f' },\n  'oauth:twitter': \n   { oauth_token: 'wA3ReAAAAAAA3WMRAAABX_Mq7dA',\n     oauth_token_secret: 'SHW3si2xLeIHYiMCyYO1QcxHFVSzThx3' } }","time":"2017-11-25T12:35:33.310Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":11484,"level":20,"msg":"Session: \n { count: 39,\n  passport: { user: '5a1956efa896fa42a4871f0f' },\n  'oauth:twitter': \n   { oauth_token: 'XjS67AAAAAAA3WMRAAABX_Ms-gQ',\n     oauth_token_secret: 'p0pmHapdG12PVEprHSkoVuMt1x443qfT' } }","time":"2017-11-25T12:35:36.305Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":11484,"level":20,"msg":"Session: \n { count: 39,\n  passport: { user: '5a1956efa896fa42a4871f0f' },\n  'oauth:twitter': \n   { oauth_token: 'XjS67AAAAAAA3WMRAAABX_Ms-gQ',\n     oauth_token_secret: 'p0pmHapdG12PVEprHSkoVuMt1x443qfT' } }","time":"2017-11-25T12:37:36.306Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":11468,"level":30,"msg":"Connected to Mongodb successfully","time":"2017-11-25T12:38:10.704Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":11468,"level":30,"msg":"API listening in port 9000","time":"2017-11-25T12:38:10.742Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":11468,"level":20,"msg":"Session: \n { count: 39,\n  passport: { user: '5a1956efa896fa42a4871f0f' },\n  'oauth:twitter': \n   { oauth_token: 'XjS67AAAAAAA3WMRAAABX_Ms-gQ',\n     oauth_token_secret: 'p0pmHapdG12PVEprHSkoVuMt1x443qfT' } }","time":"2017-11-25T12:38:17.075Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":11468,"level":20,"msg":"Session: \n { count: 40,\n  passport: { user: '5a1956efa896fa42a4871f0f' },\n  'oauth:twitter': \n   { oauth_token: 'XjS67AAAAAAA3WMRAAABX_Ms-gQ',\n     oauth_token_secret: 'p0pmHapdG12PVEprHSkoVuMt1x443qfT' } }","time":"2017-11-25T12:38:18.006Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":11468,"level":20,"msg":"Session: \n { count: 41,\n  passport: { user: '5a1956efa896fa42a4871f0f' },\n  'oauth:twitter': \n   { oauth_token: '0bAyGQAAAAAA3WMRAAABX_MvfWc',\n     oauth_token_secret: 'wLy6vfXYkjN3WAFOsTFeiWWZaQaAafxR' } }","time":"2017-11-25T12:38:19.969Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":11468,"level":20,"msg":"Session: \n { count: 42, passport: { user: '5a19643c06d18b2ccc1803f3' } }","time":"2017-11-25T12:38:20.846Z","v":0}
+{"name":"Koa-api","hostname":"pc1259","pid":11468,"level":20,"msg":"Session: \n { count: 43, passport: { user: '5a19643c06d18b2ccc1803f3' } }","time":"2017-11-25T12:38:20.852Z","v":0}
